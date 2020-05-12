@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+5 May 2020
+
+CHANGE 1 Udacity project Task 3 AND ONCE AGAIN
 
 ### Project Title
-Replace the Project Title
+Git version control project
 
 ### Description
-Describe what your project is about and what it does
+It is a project to practice and buttress our skills in Git and Github
 
 ### Files used
-Include the files used
+bikeshare.r and Readme.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+My own repo :)
 
