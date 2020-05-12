@@ -5,6 +5,8 @@ library(ggplot2)
 #Chicago bikeshare dataset assigning
 chi = read.csv('chicago.csv')
 
+#HI..udacity project CHANGE 1
+
 #a glance through the dataset
 head(chi)
 
